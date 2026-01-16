@@ -1,50 +1,55 @@
-<h1 align="center">👋 Dionmakx</h1>
-<h3 align="center">Software Developer · Open Source · AI & Computing</h3>
+<h1 align="center">Dionmakx</h1>
+<h3 align="center">Software Development · Open Source · AI & Computing</h3>
 
 <p align="center">
-Apasionado por el desarrollo de software, la informática profunda,  
-el Open Source y la Inteligencia Artificial.
+Desarrollador enfocado en construir software sólido,  
+explorar la informática a profundidad y desarrollar ideas en Inteligencia Artificial.
 </p>
 
 ---
 
-### 🚀 Sobre mí
-- 💻 Desarrollo de software moderno y bien estructurado  
-- 🧠 Interés fuerte en **IA**, sistemas y computación  
-- 🌍 Filosofía **Open Source**  
-- 📚 Aprendizaje constante y experimentación
+## 🧠 About
+Me interesa entender **cómo funcionan realmente las cosas**:  
+desde el software bien diseñado hasta los sistemas y la IA.
+
+Creo en el **Open Source**, el aprendizaje constante  
+y en construir proyectos que tengan sentido técnico.
 
 ---
 
-### 🧰 Áreas clave
-- Desarrollo de software
-- Inteligencia Artificial
-- Informática y sistemas
+## ⚙️ Focus Areas
+- Software Development
+- Artificial Intelligence
+- Computing & Systems
 - Open Source
-- Automatización
+- Automation & Tooling
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dionmakx&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dionmakx&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dionmakx&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🏆 Quickdraw
-- 🏆 YOLO
-- 🦈 Pull Shark
+## 🏆 Achievements
+- 🏆 Quickdraw  
+- 🏆 YOLO  
+- 🦈 Pull Shark  
 
 ---
 
-### 🔭 Actualmente
-Explorando ideas, construyendo proyectos y profundizando en IA  
-y tecnologías modernas.
+## 🔍 Current Mindset
+Explorando ideas, mejorando fundamentos  
+y construyendo proyectos relacionados con software e IA.
 
 ---
 
 <p align="center">
-<i>"El software no es solo código, es pensamiento estructurado."</i>
+<i>“Good software is built by understanding, not by guessing.”</i>
 </p>
