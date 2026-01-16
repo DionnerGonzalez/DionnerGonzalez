@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,android,git,github&theme=dark" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/steam/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/python/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/c/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/cplusplus/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/linux/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/android/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/git/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="46" />
+  <img src="https://cdn.simpleicons.org/steam/ffffff" height="46" />
 </p>
