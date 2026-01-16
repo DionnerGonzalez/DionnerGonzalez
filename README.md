@@ -1,6 +1,8 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=Dionmakx&fontSize=52&fontColor=ffffff&fontAlignY=55"
+    src="https://github.com/Dionmakx.png"
+    width="160"
+    style="border-radius: 50%;"
   />
 </p>
 
