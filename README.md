@@ -2,31 +2,28 @@
 <h3 align="center">Software Development · Open Source · AI & Computing</h3>
 
 <p align="center">
-Desarrollador enfocado en construir software sólido,  
-explorar la informática a profundidad y desarrollar ideas en Inteligencia Artificial.
+Building software with focus on fundamentals, systems thinking  
+and long-term technical understanding.
 </p>
 
 ---
 
-## 🧠 About
-Me interesa entender **cómo funcionan realmente las cosas**:  
-desde el software bien diseñado hasta los sistemas y la IA.
-
-Creo en el **Open Source**, el aprendizaje constante  
-y en construir proyectos que tengan sentido técnico.
+## 🧠 Profile
+I focus on understanding how software and systems really work.  
+Interested in open source, artificial intelligence, and computing at a deep level.
 
 ---
 
-## ⚙️ Focus Areas
-- Software Development
+## 🧩 Core Interests
+- Software Engineering
 - Artificial Intelligence
 - Computing & Systems
-- Open Source
-- Automation & Tooling
+- Open Source Development
+- Automation
 
 ---
 
-## 📈 GitHub Overview
+## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dionmakx&show_icons=true&theme=dark&hide_border=true" />
 </p>
@@ -37,19 +34,19 @@ y en construir proyectos que tengan sentido técnico.
 
 ---
 
-## 🏆 Achievements
-- 🏆 Quickdraw  
-- 🏆 YOLO  
-- 🦈 Pull Shark  
+## 🛠️ Tech Orientation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,ai" />
+</p>
 
 ---
 
-## 🔍 Current Mindset
-Explorando ideas, mejorando fundamentos  
-y construyendo proyectos relacionados con software e IA.
+## 🔍 Current Direction
+Exploring ideas, strengthening fundamentals  
+and building software related to AI and computing.
 
 ---
 
 <p align="center">
-<i>“Good software is built by understanding, not by guessing.”</i>
+<i>Focused on clarity, correctness, and continuous learning.</i>
 </p>
