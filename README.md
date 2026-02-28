@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,linux,windows,git,github,bash,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,linux,windows,git,github,bash,docker,vscode,steam" />
 </p>
 
 <p align="center">
@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Vulkan-Graphics%20API-red?style=for-the-badge&logo=vulkan&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Windows-System-blue?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/Gaming-Yes-purple?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
 
 <p align="center">
