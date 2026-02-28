@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,windows,git,github,bash,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,linux,windows,git,github,bash,docker,vscode" />
 </p>
 
 <p align="center">
@@ -11,4 +11,8 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DionnerGonzalez&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DionnerGonzalez&theme=tokyonight"/>
 </p>
