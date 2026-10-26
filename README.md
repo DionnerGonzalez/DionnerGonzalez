@@ -1,50 +1,48 @@
+
 <div align="center">
 
-# GITHUB ANALYTICS
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050b16,50:0756a5,100:00c6ff&text=DionnerGonzalez&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=GitHub%20Profile%20Analytics&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:123b68,100:168cff&text=DionnerGonzalez&fontColor=ffffff&fontSize=45&fontAlignY=45&animation=fadeIn&stroke=168cff&strokeWidth=1" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Repository+Statistics;Most+Used+Languages;Contribution+Activity;Open+Source+Projects" alt="Animated text" />
 
-### PROFILE STATISTICS · LANGUAGE ANALYSIS · CONTRIBUTIONS
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/DionnerGonzalez?style=flat-square&logo=github&label=Followers)](https://github.com/DionnerGonzalez?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/DionnerGonzalez?style=flat-square&logo=github&label=Stars)](https://github.com/DionnerGonzalez?tab=repositories)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDionnerGonzalez&query=%24.public_repos&label=Public%20repos&logo=github&color=168cff&style=flat-square)](https://github.com/DionnerGonzalez?tab=repositories)
+<img src="https://img.shields.io/badge/PROFILE-GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/DATA-PUBLIC-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## ◈ Repository Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DionnerGonzalez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionnerGonzalez&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=DionnerGonzalez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" width="100%" alt="GitHub statistics" />
 
 </div>
 
-## 🔥 Contribution Streak
+## ◈ Language Distribution
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DionnerGonzalez&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" alt="Contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionnerGonzalez&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Most used languages" />
 
 </div>
 
-## 📈 Activity Graph
+## ◈ Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DionnerGonzalez&bg_color=0d1117&color=c9d1d9&line=168cff&point=ffffff&area=true&area_color=123b68&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com/?user=DionnerGonzalez&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=00C6FF&currStreakLabel=58A6FF" width="100%" alt="GitHub contribution streak" />
 
 </div>
 
-## 🐍 Contribution Timeline
+## ◈ Activity Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DionnerGonzalez/DionnerGonzalez/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DionnerGonzalez&bg_color=0d1117&color=c9d1d9&line=168cff&point=00c6ff&area=true&area_color=123b68&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -52,6 +50,8 @@
 
 <div align="center">
 
-<sub>Live statistics generated from public GitHub data.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:168cff,100:00c6ff&section=footer" width="100%" />
+
+<sub>Statistics powered by public GitHub data · Dynamically generated cards</sub>
 
 </div>
