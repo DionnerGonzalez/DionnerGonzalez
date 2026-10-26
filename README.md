@@ -1,62 +1,57 @@
 <div align="center">
 
-# Dionner González
+# GITHUB ANALYTICS
 
-### Developer · Linux · Open Source
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:123b68,100:168cff&text=DionnerGonzalez&fontColor=ffffff&fontSize=45&fontAlignY=45&animation=fadeIn&stroke=168cff&strokeWidth=1" width="100%" />
 
-Construyendo, aprendiendo y explorando el mundo del software libre.
+### PROFILE STATISTICS · LANGUAGE ANALYSIS · CONTRIBUTIONS
 
-[![GitHub](https://img.shields.io/badge/GitHub-DionnerGonzalez-181717?style=for-the-badge&logo=github)](https://github.com/DionnerGonzalez)
-[![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Community-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
+[![GitHub followers](https://img.shields.io/github/followers/DionnerGonzalez?style=flat-square&logo=github&label=Followers)](https://github.com/DionnerGonzalez?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/DionnerGonzalez?style=flat-square&logo=github&label=Stars)](https://github.com/DionnerGonzalez?tab=repositories)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDionnerGonzalez&query=%24.public_repos&label=Public%20repos&logo=github&color=168cff&style=flat-square)](https://github.com/DionnerGonzalez?tab=repositories)
 
 </div>
 
 ---
 
-## Sobre mí
+## 📊 GitHub Statistics
 
-Soy un apasionado de la informática, Linux y la filosofía del
-software libre. Me interesa comprender cómo funcionan los sistemas,
-resolver problemas y transformar ideas en proyectos reales.
+<div align="center">
 
-- 🐧 Explorando el ecosistema Linux y la administración de sistemas.
-- 💻 Aprendiendo y desarrollando proyectos de software.
-- ⚙️ Interesado en la automatización, las herramientas y la tecnología.
-- 🔓 Comprometido con el aprendizaje y la cultura open source.
-- 🚀 Trabajando para convertir mis ideas en proyectos propios.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DionnerGonzalez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true" alt="GitHub statistics" />
 
-## Áreas de interés
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionnerGonzalez&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Most used programming languages" />
 
-| Área | Enfoque |
-|---|---|
-| Linux | Sistemas, personalización y administración |
-| Desarrollo | Programación y resolución de problemas |
-| Open Source | Herramientas, colaboración y código abierto |
-| Sistemas operativos | Exploración y desarrollo de una distribución Linux propia |
+</div>
 
-## Proyectos
+## 🔥 Contribution Streak
 
-🔭 **Mi distribución Linux**
+<div align="center">
 
-Proyecto personal en desarrollo. El objetivo es aprender sobre sistemas
-operativos y explorar la creación de una distribución propia.
+<img src="https://streak-stats.demolab.com?user=DionnerGonzalez&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" alt="Contribution streak" />
 
-🌱 **Proyectos de aprendizaje**
+</div>
 
-Experimentos, herramientas y proyectos que me permiten mejorar mis
-habilidades técnicas y documentar mi progreso.
+## 📈 Activity Graph
 
-## Contacto
+<div align="center">
 
-- GitHub: [@DionnerGonzalez](https://github.com/DionnerGonzalez)
-- Web: [MI-DOMINIO](https://TU-DOMINIO.dpdns.org)
-- Email: TU-CORREO@TU-DOMINIO.dpdns.org
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DionnerGonzalez&bg_color=0d1117&color=c9d1d9&line=168cff&point=ffffff&area=true&area_color=123b68&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+## 🐍 Contribution Timeline
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DionnerGonzalez/DionnerGonzalez/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*Código hoy, libertad mañana.*
+<sub>Live statistics generated from public GitHub data.</sub>
 
 </div>
